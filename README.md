@@ -17,6 +17,6 @@
 ## Important Reminders about Recitation
 #### -Sign the attendance sheet upon entering recitation
 #### -One activity packet per team
-#### -Continuous participation by all team members 
+#### -Continuous and relevant participation by all team members 
 #### -All activities are to be kept by the group for reference
 #### -Answer keys for the activities are disclosed on Fridays
