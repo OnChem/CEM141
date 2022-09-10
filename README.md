@@ -1,5 +1,5 @@
 # CEM141_Recitation
-
+### Fall 2022
 ### Recitation Instructor Name: Mithony Keng
 ### Email: kengmith@msu.edu
 ### Help Hours #1: &nbsp;  9AM-10AM Thurs, Chemistry Building Room 81/83 
@@ -16,6 +16,6 @@
 ## Important Reminders about Recitation
 #### -Sign the attendance sheet upon entering recitation
 #### -One activity packet per team
-#### -Continuous participation by all team member 
+#### -Continuous participation by all team members 
 #### -All activities are to be kept by the group for reference
-#### -Answer keys for activities are disclosed on Fridays
+#### -Answer keys for the activities are disclosed on Fridays
