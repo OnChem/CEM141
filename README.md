@@ -10,5 +10,4 @@
 <br/>
 
 ## Note
-#### The Section folders contain the team assignments for the respective section numbers. Once the file (Section#_Teams.csv) is accessed, there is an option to search for your name right above the table header.
-
+#### The Section folders contain the team assignments for the respective section numbers. Once the file (Section#_Teams.csv) is accessed, there is an option to search for your group right above the table headers (Last Name, First Name, Team Number).
