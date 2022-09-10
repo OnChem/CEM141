@@ -20,3 +20,4 @@
 #### -Continuous and relevant participation by all team members 
 #### -All activities are to be kept by the group for reference
 #### -Answer keys for the activities are disclosed on Fridays
+#### -Enjoy learning chemistry 
