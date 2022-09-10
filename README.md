@@ -10,7 +10,7 @@
 <br/>
 
 ## Navigation Note
-#### The Section_# folders contain the team assignments for the respective section numbers. Once the file (Section#_Teams.csv) is accessed, there is an option to search for your group right above the table headers (Last Name, First Name, Team Number).
+#### The Section_# folders contain the team assignments from the CATME survey for the respective section numbers. Once the file (Section#_Teams.csv) is accessed, there is an option to search for your group right above the table headers (Last Name, First Name, Team Number).
 
 <br/>
 
