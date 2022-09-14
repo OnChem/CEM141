@@ -1,4 +1,4 @@
-# CEM141_Recitation
+# CEM141 Recitation
 ### Fall 2022
 ### Recitation Instructor Name: Mithony Keng
 ### Email: kengmith@msu.edu
