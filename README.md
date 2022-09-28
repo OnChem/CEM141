@@ -21,3 +21,15 @@
 #### -All activities are to be kept by the group for reference
 #### -Answer keys for the activities are disclosed on Fridays
 #### -Enjoy learning chemistry 
+
+
+<br/>
+
+## HelpZoom
+#### Data: 10/01/22
+#### Time: TBA
+#### Zoom link: 
+
+<br/>
+
+###### Note: This session is intended as a review of the topics covered.
