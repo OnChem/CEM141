@@ -27,9 +27,9 @@
 
 ## HelpZoom
 #### Data: 10/01/22
-#### Time: TBA
-#### Zoom link: 
+#### Time: 2:00PM - 4:00PM EST
+#### Zoom link:  https://msu.zoom.us/j/98320572714
 
 <br/>
 
-###### Note: This session is intended as a review of the topics covered.
+###### Note: This session is intended as a review of the topics covered thus far in GEN CHEM, and not for troubleshooting ALEK or BeSocratic assignments.
