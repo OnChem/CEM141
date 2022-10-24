@@ -22,7 +22,12 @@
 #### -Answer keys for the activities are disclosed on Fridays
 #### -Enjoy learning chemistry 
 
+<br/>
 
+## Key Topics Illustration
+### Atomic radii trend
+
+<img src="https://user-images.githubusercontent.com/80379208/197643070-0d1755be-0e13-498f-82bd-78ebf7e0f120.png" width="1500" height="750">
 <br/>
 
 ## HelpZoom
