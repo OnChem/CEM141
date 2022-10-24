@@ -26,9 +26,9 @@
 <br/>
 
 ## HelpZoom
-#### Data: 10/01/22
-#### Time: 2:00PM - 4:00PM EST
-#### Zoom link:  https://msu.zoom.us/j/98320572714
+#### Data: TBA
+#### Time: TBA
+#### Zoom link:  TBA
 
 <br/>
 
