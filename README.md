@@ -24,7 +24,7 @@
 
 <br/>
 
-## Key Topics Illustration
+## Key Topics Illustrations
 ### Atomic radii trend
 
 <img src="https://user-images.githubusercontent.com/80379208/197643070-0d1755be-0e13-498f-82bd-78ebf7e0f120.png" width="1500" height="720">
