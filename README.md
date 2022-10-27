@@ -33,7 +33,7 @@
 <br/>
 
 ### Electron configuration
-<img src="https://user-images.githubusercontent.com/80379208/198177973-bb019a0b-7f35-43cc-90d5-d4f4176b0f43.png" width="790" height="830">
+<img src="https://user-images.githubusercontent.com/80379208/198178498-6dc873bf-e25f-465a-9fa8-331e08437e95.png" width="790" height="830">
 
 <br/>
 
