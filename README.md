@@ -27,7 +27,13 @@
 ## Key Topics Illustration
 ### Atomic radii trend
 
-<img src="https://user-images.githubusercontent.com/80379208/197643070-0d1755be-0e13-498f-82bd-78ebf7e0f120.png" width="1500" height="750">
+<img src="https://user-images.githubusercontent.com/80379208/197643070-0d1755be-0e13-498f-82bd-78ebf7e0f120.png" width="1500" height="720">
+<br/>
+<br/>
+<br/>
+
+### Electron configuration
+<img src="https://user-images.githubusercontent.com/80379208/198175446-9d370433-ca06-4501-89e9-0fe47d951d85.png" width="800" height="800">
 <br/>
 
 ## HelpZoom
