@@ -33,7 +33,8 @@
 <br/>
 
 ### Electron configuration
-<img src="https://user-images.githubusercontent.com/80379208/198175446-9d370433-ca06-4501-89e9-0fe47d951d85.png" width="800" height="800">
+<img src="https://user-images.githubusercontent.com/80379208/198177973-bb019a0b-7f35-43cc-90d5-d4f4176b0f43.png" width="790" height="830">
+
 <br/>
 
 ## HelpZoom
