@@ -32,11 +32,21 @@
 <br/>
 <br/>
 
-### Electron configuration
+### Electron configuration 
+#### "Complete"
 <img src="https://user-images.githubusercontent.com/80379208/198181898-8fdfd25d-0b68-42a6-9747-49dceb6b1986.png" width="790" height="830">
 
 
 <br/>
+<br/>
+
+#### "Core-valence"
+<img src="https://user-images.githubusercontent.com/80379208/199358475-7b999b0d-f118-4abd-aad1-806da2cd7702.png" width="790" height="800">
+
+<br/>
+
+
+
 
 ## HelpZoom
 #### Data: TBA
