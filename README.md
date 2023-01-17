@@ -53,8 +53,8 @@
 ## HelpZoom
 #### Data: TBA
 #### Time: TBA
-#### Zoom link:  TBA
+
 
 <br/>
 
-###### Note: This session is intended as a review of the topics covered thus far in GEN CHEM, and not for troubleshooting ALEK or BeSocratic assignments.
+
