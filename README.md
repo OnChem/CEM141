@@ -50,8 +50,8 @@
 
 <br/>
 
-## HelpZoom
-#### Data: TBA
+## Help Room
+#### Day: TBA
 #### Time: TBA
 
 
