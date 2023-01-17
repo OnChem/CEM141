@@ -1,6 +1,6 @@
 # CEM141 Recitation
-### Fall 2022
-
+### Spring 2022
+### Instructor Name: Mithony Keng
 ##
 <br/>
 <br/>
