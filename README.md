@@ -43,13 +43,6 @@
 <br/>
 <br/>
 
-
-### Ionization Energy  
-<img src="https://user-images.githubusercontent.com/80379208/199572228-5b055e28-0b9d-459a-a8f4-9cf1046856c2.png" width="800" height="800">
-
-
-<br/>
-
 ## Help Room
 #### Day: TBA
 #### Time: TBA
